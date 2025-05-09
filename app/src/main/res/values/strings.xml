@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Remote Visits</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="defini_es">Definições</string>
+    <string name="date_picker_button_text">Dia selecionado: %s</string>
+    <string name="next_appointment_text">%1$s %2$s</string>
+    <string name="no_reservations">Sem reservas</string>
+</resources>

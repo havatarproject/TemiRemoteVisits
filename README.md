@@ -1,2 +1,2 @@
-# TemiRemoteVisits
-The Temi Remote Videocall Aplicattion
+# temiremotevisits
+Temi APP for remote visits prototype
